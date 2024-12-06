@@ -1,0 +1,8 @@
+.vs/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+enc_temp_folder/
+
+*.sln
