@@ -31,7 +31,7 @@ it cannot be added to the inventory.
 
    ![image](https://github.com/user-attachments/assets/7f01cff9-a3ac-4b2b-a32c-6e0684a569b8)
 
-7. change the casts are below if you are using your own character
+7. change the casts that are below if you are using your own character
 
    WBP_InvGrid
    ![image](https://github.com/user-attachments/assets/ccbdfb40-062f-4c46-9532-55c38f07a51a)
